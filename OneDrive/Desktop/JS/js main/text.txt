@@ -1,0 +1,1 @@
+this is a text and we are fetching it usign the js fetch
