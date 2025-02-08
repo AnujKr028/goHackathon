@@ -9,7 +9,8 @@
     "face-api.js": "^0.22.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "vite": "^6.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
